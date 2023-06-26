@@ -191,3 +191,4 @@ int viewMajorReps(FILE *filePtr, char major[], int minRep)
     }
     return count;
 }
+
