@@ -1,0 +1,30 @@
+
+ID  Name                 Surname              Major                Reputation Index
+3   Turkan               Soray                Yesilcam             24
+6   Cem                  Yilmaz               Comedy               53
+11  Indiana              Jones                Action               66
+12  Kara                 Murat                History              76
+15  Fatma                Girik                Yesilcam             33
+22  Kadir                Inanir               Yesilcam             41
+
+Which operation do you choose?
+1 : Update Reputation Index
+2 : Add Actor
+3 : Delete Actor
+4 : View Major Info with Reputation
+> 2
+
+Actor id: 10
+Name: Melisa
+Surname: Sozen
+Major: Drama
+Reputation Index: 89
+
+ID  Name                 Surname              Major                Reputation Index
+3   Turkan               Soray                Yesilcam             20
+6   Cem                  Yilmaz               Comedy               53
+10  Melisa               Sozen                Drama                89
+11  Indiana              Jones                Action               66
+12  Kara                 Murat                History              76
+15  Fatma                Girik                Yesilcam             33
+22  Kadir                Inanir               Yesilcam             41
