@@ -1,5 +1,0 @@
-cube 1 1 1 5
-square_prism 1 1 1 5 2
-sphere -1 0 0 3
-square_prism -1 -1 -1 1 2
-cube -1 -1 -1 4
