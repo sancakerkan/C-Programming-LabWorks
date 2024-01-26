@@ -29,4 +29,4 @@ This repository contains C programming assignments and homework assignments comp
 
 
 ## Author
-Erkan Sancak
+Erkan Sancak, 2023.
