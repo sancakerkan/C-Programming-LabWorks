@@ -27,6 +27,9 @@ This repository contains C programming assignments and homework assignments comp
 ## [Makeup Lab - Text File Word Reversal](./Makeup%20Lab%20Text%20File%20Word%20Reversal)
 - Description: Reverse words in a text file and display them in uppercase.
 
+## Contributing
+
+Feel free to contribute to this project by submitting issues, suggesting improvements, or contributing code.
 
 ## Author
 Erkan Sancak, 2023.
